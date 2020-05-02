@@ -28,4 +28,4 @@
 
 扫描二维码回复：“面试”即可获取pdf
 
-![WechatIMG360](/Users/qianliying/Desktop/WechatIMG360.png)
+![WechatIMG360](https://gitee.com/yizhibuerdai/Imagetools/raw/master/images/common1.png)
