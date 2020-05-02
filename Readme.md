@@ -24,7 +24,7 @@
 - [**Spring Cloud**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/SpringCloud.md)
 - [**简历**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/简历.md)
 
-具体大家需要看的部分点击目录即可查看，另外后面很多是属于自己看书和学习专栏所得，请不要直接复制到自己的博客声明原创。pdf给大家准备好了。
+具体大家需要看的部分点击目录即可查看。pdf给大家准备好了。小编会持续更新...
 
 扫描二维码回复：“面试”即可获取pdf
 
