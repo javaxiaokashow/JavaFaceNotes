@@ -16,7 +16,7 @@
 - [**MySql**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/MySql.md)
 - [**Spring**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/Spring.md)
 - [**Mybatis**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/Mybatis.md)
-- [**MyBatis 面试题**](https://github.com/duchaochen/Java-V1.0/blob/master/Java/MyBatis 面试题.md)
+- [**Nginx**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/Nginx.md)
 - [**Redis**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/Redis.md)
 - [**Dubbo**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/Dubbo.md)
 - [**SpringBoot**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/SpringBoot.md)
