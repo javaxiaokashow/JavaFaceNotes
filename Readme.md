@@ -20,7 +20,7 @@
 - [**Redis**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/Redis.md)
 - [**Dubbo**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/Dubbo.md)
 - [**SpringBoot**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/SpringBoot.md)
-- [**Kafka **](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/Kafka.md)
+- [**Kafka**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/Kafka.md)
 - [**Spring Cloud**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/SpringCloud.md)
 - [**简历**](https://github.com/javaxiaokashow/JavaFaceNotes/blob/master/Docs/简历.md)
 
